@@ -1,4 +1,4 @@
-# 🧾 BillMate API (Backend)
+# 🧾 Mr. Bills API (Backend)
 
 [![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
 [![Entity Framework Core](https://img.shields.io/badge/EF%20Core-8.0-blue)](https://docs.microsoft.com/ef/core/)
@@ -6,7 +6,9 @@
 [![SignalR](https://img.shields.io/badge/SignalR-Real--Time-orange)](https://dotnet.microsoft.com/apps/aspnet/signalr)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **BillMate** is a scalable, cloud-ready RESTful Web API engineered with **ASP.NET Core (.NET 8)** and **Entity Framework Core**. It is designed to handle group expense management, smart bill splitting, automated debt calculation, real-time activity notifications, and multi-tier subscription billing (integrating **Google Play Billing** & **Shopier Payment Gateway**).
+> **Mr. Bills** is a scalable, cloud-ready RESTful Web API engineered with **ASP.NET Core (.NET 8)** and **Entity Framework Core**. It is designed to handle group expense management, smart bill splitting, automated debt calculation, real-time activity notifications, and multi-tier subscription billing (integrating **Google Play Billing** & **Shopier Payment Gateway**).
+
+🔗 **Frontend Repository:** [MrBills-Frontend (React 18 + Standalone Interactive Demo)](https://github.com/Husam-Abdulraheem/MrBills-Frontend)
 
 ---
 
@@ -94,8 +96,8 @@ erDiagram
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Husam-Abdulraheem/BillMate-Backend.git
-cd BillMate-Backend
+git clone https://github.com/Husam-Abdulraheem/MrBills-Backend.git
+cd MrBills-Backend
 ```
 
 ### 2. Configure Environment Variables
